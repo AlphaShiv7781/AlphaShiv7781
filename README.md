@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.codemagic.io/uploads/covers/codemagic-blog-Integrating-flutter-module-to-your-native-app.png)](https://rishavchanda.io)
+[![MasterHead](https://www.mashfrog.com/sites/default/files/2023-02/1920x1080_cover_B%20%281%29.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
